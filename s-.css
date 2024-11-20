@@ -1,0 +1,36 @@
+.main{
+    width:100%;
+    height:1000px;
+    background-color:rgb(26, 24, 24);
+    color: rgb(9, 10, 11);
+    background-image: url(https://media.istockphoto.com/id/1162103013/vector/bright-rays-background.jpg?s=612x612&w=0&k=20&c=rglurzXmtdRAXbv4eJELXjM341yPvKibq5DWC__Y1mo=);
+    background-size: cover;
+    width:100%;
+    height:1000px;
+
+}
+h{
+  margin-left: 20%;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+ color:brown;
+ text-decoration:underline
+
+}
+p1{
+    font-size:1.85rem;
+    font-weight: 200;
+    margin-bottom: 20px;
+    
+}
+.c{
+    margin-bottom: 40px;
+}
+.cl{
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-style: oblique;
+    margin-left: 20%;
+}

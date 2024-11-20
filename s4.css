@@ -1,0 +1,41 @@
+.main{
+    height:800px;
+    width:100%;
+    background-color: rgb(105, 45, 45);
+    background-image: url(https://img.freepik.com/premium-photo/gradient-background-pink-red-purple-blue-color-gradient-background-image-smooth-clear_873925-1044459.jpg);
+    background-size: cover;
+
+}
+h{
+    font-size: 2rem;
+    font-weight: 700;
+    color:rgb(1, 6, 6);
+    margin-bottom: 60px;
+}
+.address{
+    font-size:1.5rem;
+    margin-top: 70px;
+    font-weight: 500;
+}
+.enq{
+    font-size:1.5rem;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.name{
+    font-size:1.5rem;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.email{
+    font-size:1.5rem;
+    margin-top: 20px;
+    font-weight: 400;
+}
+textarea{
+    display: flex;
+    margin-left: 27%;
+    width:45%;
+    height:200px;
+    margin-top: 90px;
+}
